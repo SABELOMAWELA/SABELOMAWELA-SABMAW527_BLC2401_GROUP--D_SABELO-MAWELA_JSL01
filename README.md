@@ -1,9 +1,9 @@
 # SABELOMAWELA-SABMAW527_BLC2401_GROUP--D_SABELO-MAWELA_JSL01
 ## Validation Logic
 
-The input is checked to see if it matches the format pet_XXXXYYYYZ, where:
-pet_ is a fixed prefix.
+The input is checked to see if it matches the format pet_XXXXYYYYZ,
 
+where: pet_ is a fixed prefix.
 XXXX represents a pet code.
 YYYY represents a year, which must be between 2000 and 2030.
 Z represents an initial letter for the pet's name, which must be a capital letter.
